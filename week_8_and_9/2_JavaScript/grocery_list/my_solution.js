@@ -30,7 +30,7 @@ var GroceryList = {
     eggs: 12,
     milk: 2,
     pears: 8,
-    bananas: 6
+    bananas: 6 
   },
 
 // ---------------- View all the items in the list -----------------
